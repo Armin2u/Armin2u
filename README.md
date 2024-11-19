@@ -1,7 +1,11 @@
 ## Hi there 👋
-
+<p>
+  <a href=" https://count.getloli.com/@armin?name=armin&theme=booru-yuyuyui&padding=7&offset=0&align=top&scale=2&pixelated=1&darkmode=auto"></a>
+ 
+</p>
 <!--
 **Armin2u/Armin2u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
